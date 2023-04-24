@@ -1,100 +1,57 @@
-<p align="center">
-  <img width="281" alt="image" src="https://user-images.githubusercontent.com/62320484/231023702-7e9327fc-909d-4498-b155-0f80c083ae98.png">
-</p>  
+# 🎉 Quizzy - A Fun Quiz App for Kids 🎈
 
-## Docs 📄
+Quizzy is a fun and interactive quiz app designed specifically for kids! With colorful visuals, engaging questions, and an easy-to-use interface, children can enjoy learning while playing. Get ready for a delightful experience that will challenge young minds and make learning exciting! 🌟
 
-- [Figma](https://www.figma.com/file/4yDelrBXMqqdBQaIGmgEvV/Design-Process?node-id=0-1&t=HrGj2hXGYcIaDeDG-0)
-  
+## 📚 Features
 
-## Requirements ⚙️
+- 🎁 Multiple-choice questions to test knowledge across various topics
+- 🌈 Colorful and kid-friendly user interface
+- 👪 Designed for children of all ages
+- 📊 Track progress and scores
+- ✨ Encourages learning through play
+- 🚀 Regular updates with new quizzes and features
 
-- [Yarn](https://yarnpkg.com/)
+## 🚀 Getting Started
 
-- [Node.js](https://nodejs.org/en/)
+To get started with Quizzy, simply follow the steps below:
 
-- Check out how to set up the environment to run on the [documentation](https://reactnative.dev/docs/getting-started)
-
-## Installation ⬇️
-
-```bash
-# Install dependencies
-
-$ yarn
-
-```
-
-  
-
-## Running the app 🏃
-
+1. Clone the repository:
 
 ```bash
-
-$ yarn dev
-
+git clone https://github.com/your_username/quizzy.git
 ```
 
-  
+2. Navigate to the project folder:
 
-  
-
-## Test 🧪
 ```bash
-# unit tests
-
-$ yarn test
-
-# unit tests watch
-
-$ yarn test:watch
+cd quizzy
 ```
 
-## Contribute 🤝
-### Branches
+3. Install the required dependencies:
 
-Pull requests should be composed of type, number of task and branch name.\
-Branch name must be spaced by "-".\
-The types might be:
-- feature - For new features
-- fix - For adjustments (both bugfixes and hotfixes)
-- release - For release branches
-
-Example: feature/14-navbar-mobile
-
-### Commits
-Commits should be structured as `<branch-type>(<branch-name>): <commit description> <task-code>`
-
-Example: `git commit -m "feature(navbar-mobile): adding smooth scroll" -m "#14"`
-
-### Default Branches
-- master - Most stable code
-- develop - Most recently developed
-
-### Pull requests
-Pull requests must have good descriptions.\
-The three main topics of the description are:
-- What I did
-- How I did
-- How to test
-
-Of course it's not mandatory, sometimes it won't make sense to add some of these.\
-But add descriptive PRs with pictures and referencing code when needed.
-
-
-## Scripts 
-
-Create a new component:
 ```bash
-  yarn generate component
+npm install
 ```
 
-Create a new page:
-```bash 
-  yarn generate page
+4. Start the development server:
+
+```bash
+npm run start
 ```
 
-Create a new layout:
-```bash 
-  yarn generate layout
-```
+Now, open your browser and navigate to `http://localhost:3000` to start playing!
+
+## 🤝 Contributing
+
+We love contributions! If you have any ideas for new features, improvements, or bug fixes, feel free to submit a pull request. You can also open an issue to discuss your ideas with the community.
+
+1. Fork the repository and create your branch (`git checkout -b feature/newFeature`)
+2. Commit your changes (`git commit -am 'Add some newFeature'`)
+3. Push to the branch (`git push origin feature/newFeature`)
+4. Create a new Pull Request
+
+## 📖 License
+
+Quizzy is released under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code as you please. Just remember to give credit to the original authors! 😊
+
+## 🎈 Have Fun and Happy Quizzing! 🥳
